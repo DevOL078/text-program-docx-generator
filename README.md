@@ -1,4 +1,4 @@
-# Generator of document "Text of program" in .docx
+# Генератор документа "Текст программы" в .docx
 
 ### Необходимое ПО
 - Java 17
