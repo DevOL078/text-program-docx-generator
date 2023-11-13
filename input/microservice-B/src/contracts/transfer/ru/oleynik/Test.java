@@ -1,4 +1,4 @@
-package ru.croc;
+package ru.oleynik;
 
 public class Test {
 }
