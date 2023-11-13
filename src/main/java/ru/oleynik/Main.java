@@ -1,4 +1,4 @@
-package ru.croc;
+package ru.oleynik;
 
 import org.apache.poi.xwpf.usermodel.XWPFDocument;
 
